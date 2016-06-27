@@ -29,5 +29,5 @@ Steps to setup the project locally:
 
 ==== To view the deployed project:
 
-* Visit https://evening-shelf-96900.herokuapp.com/
+* Visit "https://evening-shelf-96900.herokuapp.com/"
 
